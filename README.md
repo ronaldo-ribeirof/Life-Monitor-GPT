@@ -1,6 +1,5 @@
 # monitordevidaGPT
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Monitor de Vida GPT</title>
